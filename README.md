@@ -10,7 +10,7 @@ See DSD_Final_Description_MIPS.pdf for the project description
 
 ## Result
 
-See DSD_Presentation.pdf and DSD_Report for the results analysis.
+See DSD_Presentation.pdf and DSD_Report.pdf for the results analysis.
 
 ## Synthesis and Running
 
